@@ -197,3 +197,4 @@ Embed at different size
 ```{r, fig.width=6, fig.height=3}
 weather_plot
 ```
+
